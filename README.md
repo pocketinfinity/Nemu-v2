@@ -1,5 +1,5 @@
-# Bloo
-Bloo is a sophisticated moderation and miscellaneous utilities Discord bot created for the [r/Jailbreak Discord server](https://reddit.com/r/jailbreak). It features:
+# Nemu (Based on Bloo)
+Nemu is a sophisticated moderation and miscellaneous utilities Discord bot created for the [Sileo Discord Server](https://discord.gg/Sileo). It features:
 
 - Completely based on Discord's Slash Commands, written in the [Pycord library](https://github.com/Pycord-Development/pycord)
 - Standard moderation commands such as warn, mute, kick, ban, ...
@@ -119,6 +119,7 @@ If you want to inspect or change database values:
     <td align="center"><a href="https://saadat.dev/"><img src="https://avatars.githubusercontent.com/u/41216857?v=4" width="100px;" alt=""/><br /><sub><b>mass1ve-err0r</b></sub></a></td>
     <td align="center"><a href="https://github.com/sqlstatement"><img src="https://avatars.githubusercontent.com/u/27446425?v=4" width="100px;" alt=""/><br /><sub><b>sqlstatement</b></sub></a></td>
     <td align="center"><a href="https://github.com/beerpiss"><img src="https://avatars.githubusercontent.com/u/92439990?v=4" width="100px;" alt=""/><br /><sub><b>beerpsi</b></sub></a></td>
+      <td align="center"><a href="https://twitter.com/pocketinfinity_"><img src="https://avatars.githubusercontent.com/u/43411063?v=4" width="100px;" alt=""/><br /><sub><b>pocketinfinity_</b></sub></a></td>
   </tr>
   </table>
 
